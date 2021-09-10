@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Matt Uriegas also known as @muriegas23
+- 👀 I’m interested in Data Science, Software Engineering, and Machine Learning
+- 🌱 I’m currently learning how to use Data analytics tools and apply these tools in machine learning.
+- 📫 If you are interested collaborating, feel free to email me at muriegas23@gmail.com or connect with me on LinkedIn!
